@@ -12,6 +12,3 @@ def BinarySearch(arr, n, k):
             right = mid - 1
     
     return -1
-
-print(BinarySearch([1, 2, 3, 4, 5], 5, 4))
-print(BinarySearch([11, 22, 33, 44, 55], 5, 445))
